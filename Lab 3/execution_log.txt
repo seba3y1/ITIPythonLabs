@@ -1,0 +1,2 @@
+ math_task executed in 10.3193 seconds
+ regex_task executed in 0.0017 seconds

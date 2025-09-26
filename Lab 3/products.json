@@ -1,0 +1,17 @@
+[
+    {
+        "product": "as",
+        "price": 1.0,
+        "discounted": 0.9
+    },
+    {
+        "product": "ks",
+        "price": 2.0,
+        "discounted": 1.8
+    },
+    {
+        "product": "dd",
+        "price": 3.0,
+        "discounted": 2.7
+    }
+]

@@ -1,0 +1,6 @@
+me@you.net
+another@domain.com
+contact@company.com
+user1@example.com
+foo@bar.com
+hello@test.org
